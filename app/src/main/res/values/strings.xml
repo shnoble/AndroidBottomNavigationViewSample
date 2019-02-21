@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BottomNavigationViewSample</string>
+    <string name="home">홈</string>
+    <string name="service">서비스</string>
+    <string name="billing">결제</string>
+    <string name="customer_center">고객센터</string>
+    <string name="settings">설정</string>
 </resources>

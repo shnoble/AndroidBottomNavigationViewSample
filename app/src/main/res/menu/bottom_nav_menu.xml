@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_home"
+          android:title="@string/home"
+          android:icon="@drawable/ic_home_disable" />
+    <item android:id="@+id/action_service"
+          android:title="@string/service"
+          android:icon="@drawable/ic_service_disable" />
+    <item android:id="@+id/action_billing"
+          android:title="@string/billing"
+          android:icon="@drawable/ic_billing_disable" />
+    <item android:id="@+id/action_customer_center"
+          android:title="@string/customer_center"
+          android:icon="@drawable/ic_customer_center_disable" />
+    <item android:id="@+id/action_settings"
+          android:title="@string/settings"
+          android:icon="@drawable/ic_service_disable" />
+</menu>
