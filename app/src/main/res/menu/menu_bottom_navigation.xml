@@ -2,17 +2,18 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/action_home"
           android:title="@string/home"
-          android:icon="@drawable/ic_home_disable" />
+          android:icon="@drawable/ic_menu_home"/>
     <item android:id="@+id/action_service"
           android:title="@string/service"
-          android:icon="@drawable/ic_service_disable" />
+          android:visible="false"
+          android:icon="@drawable/ic_menu_service"/>
     <item android:id="@+id/action_billing"
           android:title="@string/billing"
-          android:icon="@drawable/ic_billing_disable" />
+          android:icon="@drawable/ic_menu_billing"/>
     <item android:id="@+id/action_customer_center"
           android:title="@string/customer_center"
-          android:icon="@drawable/ic_customer_center_disable" />
+          android:icon="@drawable/ic_menu_customer_center"/>
     <item android:id="@+id/action_settings"
           android:title="@string/settings"
-          android:icon="@drawable/ic_service_disable" />
+          android:icon="@drawable/ic_menu_settings"/>
 </menu>
